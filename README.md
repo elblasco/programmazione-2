@@ -1,2 +1,2 @@
-# Prog2
-When i created this repo i was dumb af so i uploaded only the .java files and not the complete projects structure.
+# Programmazione 2
+Scusatemi, quando ho fatto il dump dei file ho esportato solo i `.java` quindi non sono plug & play.
